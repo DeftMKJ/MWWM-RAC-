@@ -1,0 +1,14 @@
+platform :ios, '7.0'
+
+target 'MKJMWWM' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'ReactiveCocoa'
+pod 'YYModel'
+pod 'PNChart'
+pod 'MJRefresh'
+pod 'Shimmer'
+pod 'PNChart'
+pod 'pop'
+end
