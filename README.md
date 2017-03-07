@@ -1,4 +1,5 @@
 ## MVVM + RAC完整示例Demo
+![](https://github.com/DeftMKJ/MWWM-RAC-/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-03-07%2015.59.04.png)
   1.用到了网络请求的信号传递<br/>
   2.用RACObserve宏进行属性的KVO观察<br/>
   3.用RACSubject进行数据的回调<br/>
